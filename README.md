@@ -1,3 +1,3 @@
 - 🔭 I’m currently working on different small projects in Python with Django.
-- 🌱 I’m currently learning IT at WSB Gdansk
-- 📫 How to reach me: Banana Tiger#2761 @Discord
+- 🌱 I’m currently learning programming at WSB Gdansk.
+- 📫 How to reach me: Banana Tiger#2761 @Discord.
