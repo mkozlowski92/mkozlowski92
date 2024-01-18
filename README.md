@@ -1,3 +1,3 @@
-- 🔭 I’m currently working on...
+- 🔭 I’m currently working on diploma project and thesis.
 - 🌱 I’m currently learning programming at WSB Gdansk.
-- 📫 How to reach me: Banana Tiger#2761 @Discord.
+- 📫 How to reach me: banana.taiga at Discord.
