@@ -1,3 +1,3 @@
-- 🔭 I’m currently working on diploma project and thesis.
-- 🌱 I’m currently learning programming at WSB Gdansk.
-- 📫 How to reach me: banana.taiga at Discord.
+- 🔭 I'm currently looking for a job in IT.
+- 🌱 I have finished learning programming at WSB Gdansk.
+- 📫 How to reach me: banana.taiga at Discord and marcin.kozlowski@10g.pl
