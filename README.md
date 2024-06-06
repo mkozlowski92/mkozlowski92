@@ -1,3 +1,3 @@
-- 🔭 I'm currently looking for a job in IT.
-- 🌱 I have finished learning programming at WSB Gdansk.
-- 📫 How to reach me: banana.taiga at Discord and marcin.kozlowski@10g.pl
+- 🔭 I'm currently looking for a job in IT
+- 🌱 I have finished learning programming at Uniwersytet WSB Merito w Gdańsku
+- 📫 How to reach me marcin.kozlowski@10g.pl
